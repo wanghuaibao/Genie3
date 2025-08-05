@@ -53,22 +53,22 @@ export function Footer() {
                   <path fillRule="evenodd" d="M4 3a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V5a2 2 0 00-2-2H4zm12 12H4l4-8 3 6 2-4 3 6z" clipRule="evenodd" />
                 </svg>
               </div>
-              <span className="font-bold text-2xl">Genie 2</span>
+              <span className="font-bold text-2xl">Genie3</span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Google DeepMind's revolutionary foundation world model. 
-              Transform single images into interactive 3D environments with realistic physics.
+              <strong>Genie3</strong> - Google DeepMind's revolutionary foundation world model at <strong>Genie3.top</strong>. 
+              Transform single images into interactive 3D environments with realistic physics using Genie3.
             </p>
             
             {/* Contact info */}
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <IconMail className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">research@deepmind.google</span>
+                <span className="text-gray-300">contact@genie3.top</span>
               </div>
               <div className="flex items-center space-x-3">
                 <IconPhone className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">DeepMind Research</span>
+                <span className="text-gray-300">Genie3.top Platform</span>
               </div>
             </div>
           </div>
@@ -132,7 +132,7 @@ export function Footer() {
           <div className="flex flex-col lg:flex-row items-center justify-between">
             <div className="mb-6 lg:mb-0">
               <h3 className="font-semibold text-xl mb-2">Stay updated</h3>
-              <p className="text-gray-300">Get the latest updates on Genie 2 and world generation research.</p>
+              <p className="text-gray-300">Get the latest updates on <strong>Genie3</strong> and world generation technology at <strong>Genie3.top</strong>.</p>
             </div>
             <div className="flex flex-col sm:flex-row gap-4 w-full lg:w-auto">
               <input 
@@ -153,7 +153,7 @@ export function Footer() {
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2024 Google DeepMind. Genie 2 - Foundation World Model for Interactive 3D Environments.
+              © 2024 Genie3.top. <strong>Genie3</strong> - Foundation World Model for Interactive 3D Environments powered by Google DeepMind.
             </div>
             
             {/* Social links */}

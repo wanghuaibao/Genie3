@@ -6,9 +6,9 @@ const plans = [
     name: "Explorer",
     price: "Free",
     period: "Limited Access",
-    description: "Experience Genie 2's world generation capabilities",
+    description: "Experience Genie3's world generation capabilities at Genie3.top",
     features: [
-      "5 world generations per month",
+      "5 Genie3 world generations per month",
       "10-second world duration",
       "Basic image inputs",
       "Community forum access",
@@ -29,7 +29,7 @@ const plans = [
     period: "per month",
     description: "Perfect for game developers and creative professionals",
     features: [
-      "100 world generations per month",
+      "100 Genie3 world generations per month",
       "30-second world duration", 
       "Advanced image inputs",
       "Priority support",
@@ -52,7 +52,7 @@ const plans = [
       "Unlimited generations",
       "60-second world duration",
       "API access for agents",
-      "Custom training environments",
+      "Custom Genie3 training environments",
       "Dedicated compute resources",
       "SIMA integration",
       "Team collaboration",
@@ -74,10 +74,10 @@ export function PricingSection() {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6">
-            Access Plans for Genie 2
+            <span className="text-blue-600">Genie3</span> Access Plans
           </h2>
           <p className="text-lg lg:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Select the right tier for your interactive world generation needs. From exploration to advanced research.
+            Select the right tier for your interactive world generation needs on <strong>Genie3.top</strong>. From exploration to advanced research with Genie3.
           </p>
           
           {/* Billing toggle */}
@@ -180,11 +180,11 @@ export function PricingSection() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             <div className="text-left">
               <h4 className="font-semibold text-gray-900 dark:text-white mb-2">How long can worlds persist?</h4>
-              <p className="text-gray-600 dark:text-gray-400">Genie 2 can generate consistent worlds for up to 60 seconds, depending on your plan tier.</p>
+              <p className="text-gray-600 dark:text-gray-400">Genie3 can generate consistent worlds for up to 60 seconds, depending on your plan tier at Genie3.top.</p>
             </div>
             <div className="text-left">
               <h4 className="font-semibold text-gray-900 dark:text-white mb-2">What input formats work?</h4>
-              <p className="text-gray-600 dark:text-gray-400">Genie 2 accepts photographs, concept art, digital drawings, and even simple sketches as input.</p>
+              <p className="text-gray-600 dark:text-gray-400">Genie3 accepts photographs, concept art, digital drawings, and even simple sketches as input on Genie3.top.</p>
             </div>
             <div className="text-left">
               <h4 className="font-semibold text-gray-900 dark:text-white mb-2">Can I train AI agents?</h4>
@@ -192,7 +192,7 @@ export function PricingSection() {
             </div>
             <div className="text-left">
               <h4 className="font-semibold text-gray-900 dark:text-white mb-2">Is this publicly available?</h4>
-              <p className="text-gray-600 dark:text-gray-400">Genie 2 is currently in research phase. Public access is being evaluated by Google DeepMind.</p>
+              <p className="text-gray-600 dark:text-gray-400">Genie3 is now available at Genie3.top, bringing Google DeepMind's technology to creators worldwide.</p>
             </div>
           </div>
         </div>
@@ -203,7 +203,7 @@ export function PricingSection() {
             Powered by Google DeepMind
           </h3>
           <p className="text-gray-600 dark:text-gray-300">
-            Experience the cutting-edge foundation world model that's revolutionizing interactive 3D content creation.
+            Experience <strong>Genie3</strong> - the cutting-edge foundation world model at <strong>Genie3.top</strong> that's revolutionizing interactive 3D content creation.
           </p>
         </div>
       </div>

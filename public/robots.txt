@@ -1,0 +1,93 @@
+# Genie3.top Robots.txt
+# AI 3D World Generator Platform
+# https://genie3.top
+
+# Allow all search engines
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /private/
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+# Yandex
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+# Facebook
+User-agent: facebookexternalhit
+Allow: /
+
+# Twitter
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn
+User-agent: LinkedInBot
+Allow: /
+
+# WhatsApp
+User-agent: WhatsApp
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+# SEO Tools
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 10
+
+User-agent: DotBot
+Allow: /
+Crawl-delay: 10
+
+# Block bad bots
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: AhrefsBot/5.2
+Disallow: /
+
+# Sitemap location
+Sitemap: https://genie3.top/sitemap.xml
+Sitemap: https://genie3.top/sitemap-images.xml
+Sitemap: https://genie3.top/sitemap-videos.xml
+
+# Host preference (for Yandex)
+Host: https://genie3.top
+
+# Crawl-delay for all other bots
+User-agent: *
+Crawl-delay: 1

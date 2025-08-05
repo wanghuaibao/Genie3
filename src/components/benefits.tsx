@@ -4,14 +4,14 @@ import { IconRocket, IconPalette, IconClock, IconTrendingUp, IconShield, IconUse
 const benefits = [
   {
     icon: <IconRocket className="h-8 w-8" />,
-    title: "Instant World Creation",
-    description: "Generate fully interactive 3D environments from a single image in seconds. Transform static visuals into explorable worlds.",
+    title: "Instant World Creation with Genie3",
+    description: "Genie3 generates fully interactive 3D environments from a single image in seconds. Transform static visuals into explorable worlds on Genie3.top.",
     gradient: "from-blue-500 to-cyan-500"
   },
   {
     icon: <IconPalette className="h-8 w-8" />,
-    title: "Endless Possibilities",
-    description: "Create infinite variations of playable 3D worlds. From realistic simulations to fantastical realms, Genie 2 brings any vision to life.",
+    title: "Endless Possibilities with Genie3",
+    description: "Create infinite variations of playable 3D worlds with Genie3. From realistic simulations to fantastical realms, Genie3 brings any vision to life.",
     gradient: "from-purple-500 to-pink-500"
   },
   {
@@ -34,8 +34,8 @@ const benefits = [
   },
   {
     icon: <IconUsers className="h-8 w-8" />,
-    title: "Persistent World Memory",
-    description: "Genie 2 remembers off-screen content and maintains world consistency. Navigate freely without breaking immersion.",
+    title: "Genie3's Persistent World Memory",
+    description: "Genie3 remembers off-screen content and maintains world consistency. Navigate freely without breaking immersion in Genie3-generated worlds.",
     gradient: "from-teal-500 to-cyan-500"
   }
 ];
@@ -46,10 +46,10 @@ export function BenefitsSection() {
       <div className="max-w-7xl mx-auto px-4 md:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6">
-            Why Choose Genie 2?
+            Why Choose <span className="text-blue-600">Genie3</span>?
           </h2>
           <p className="text-lg lg:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Discover the groundbreaking capabilities of Google DeepMind's foundation world model and revolutionize how you create interactive experiences.
+            Discover the groundbreaking capabilities of <strong>Genie3</strong> - Google DeepMind's foundation world model. Available at <a href="https://genie3.top" className="text-blue-600 hover:underline">Genie3.top</a>, revolutionizing interactive 3D world creation.
           </p>
         </div>
 

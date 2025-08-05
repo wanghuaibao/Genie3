@@ -46,7 +46,7 @@ function ScreenshotSection({ screenshotRef }: { screenshotRef: React.RefObject<H
         <div>
           <img
             src="https://cdn.sanity.io/images/s6lu43cv/production-v4/13b6177b537aee0fc311a867ea938f16416e8670-3840x2160.jpg?w=3840&h=2160&q=10&auto=format&fm=jpg"
-            alt="Genie 2 Interactive 3D World Generation"
+            alt="Genie3 Interactive 3D World Generation - Transform Images to Worlds | Genie3.top"
             className="w-full h-auto block rounded-lg mx-auto"
           />
         </div>
@@ -59,14 +59,14 @@ function HeroContent() {
   return (
     <div className="text-left text-white pt-16 sm:pt-24 md:pt-32 px-4 max-w-3xl">
       <h1 className="text-3xl sm:text-5xl md:text-7xl font-bold mb-4 leading-tight tracking-wide">
-        Genie 2: Transform <br className="sm:hidden" />Images into Playable <br className="sm:hidden" />3D Worlds
+        <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Genie3</span>: Transform <br className="sm:hidden" />Images into Playable <br className="sm:hidden" />3D Worlds
       </h1>
       <p className="text-base sm:text-lg md:text-xl mb-6 sm:mb-8 opacity-80 max-w-xl">
-        Google DeepMind's revolutionary AI model creates endless interactive 3D environments from a single image. Experience the future of world generation.
+        <strong>Genie3</strong> (Genie3.top) - Google DeepMind's revolutionary AI model creates endless interactive 3D environments from a single image. Experience the future of world generation with Genie3's advanced technology.
       </p>
       <div className="flex pointer-events-auto flex-col sm:flex-row items-start space-y-3 sm:space-y-0 sm:space-x-3">
         <button className="bg-[#8200DB29] hover:bg-black/50 text-white font-semibold py-2 sm:py-3 px-6 sm:px-8 rounded-full transition duration-300 w-full sm:w-auto border border-[#322D36]" style={{ backdropFilter: 'blur(8px)' }}>
-          Try Genie 2 Now
+          Try Genie3 Now
         </button>
         <button className="pointer-events-auto bg-[#0009] border border-gray-600 hover:border-gray-400 text-gray-200 hover:text-white font-medium py-2 sm:py-3 px-6 sm:px-8 rounded-full transition duration-300 flex items-center justify-center w-full sm:w-auto">
           <svg className="w-4 h-4 sm:w-5 sm:h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -249,8 +249,8 @@ export const HeroSection = () => {
       <div className="bg-black relative z-10" style={{ marginTop: '-10vh' }}>
         <ScreenshotSection screenshotRef={screenshotRef} />
         <div className="container mx-auto px-4 py-16 text-white">
-            <h2 className="text-4xl font-bold text-center mb-8">Experience the Future of World Generation</h2>
-             <p className="text-center max-w-xl mx-auto opacity-80">Witness how Genie 2 transforms a single image into rich, interactive 3D environments with realistic physics and lighting.</p>
+            <h2 className="text-4xl font-bold text-center mb-8">Experience Genie3's Revolutionary Technology</h2>
+             <p className="text-center max-w-xl mx-auto opacity-80">Witness how <strong>Genie3</strong> transforms a single image into rich, interactive 3D environments with realistic physics and lighting. Available exclusively at Genie3.top.</p>
         </div>
       </div>
     </div>

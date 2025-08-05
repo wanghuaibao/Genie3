@@ -29,8 +29,8 @@ export function CTASection() {
 
           {/* Description */}
           <p className="text-xl lg:text-2xl text-blue-100 mb-12 max-w-4xl mx-auto leading-relaxed">
-            Experience Google DeepMind's revolutionary Genie 2 technology. 
-            Transform single images into fully interactive 3D environments with realistic physics.
+            Experience <strong>Genie3</strong> - Google DeepMind's revolutionary technology at <strong>Genie3.top</strong>. 
+            Transform single images into fully interactive 3D environments with realistic physics using Genie3.
           </p>
 
           {/* Stats */}
@@ -53,7 +53,7 @@ export function CTASection() {
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <button className="group bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-bold py-4 px-10 rounded-full text-xl transition-all duration-300 transform hover:scale-105 shadow-2xl hover:shadow-blue-500/25 flex items-center space-x-3">
               <IconSparkles className="h-6 w-6 group-hover:animate-spin" />
-              <span>Explore Genie 2</span>
+              <span>Explore Genie3 Now</span>
               <IconArrowRight className="h-6 w-6 group-hover:translate-x-1 transition-transform" />
             </button>
             
@@ -67,7 +67,7 @@ export function CTASection() {
 
           {/* Trust indicators */}
           <div className="mt-12 text-center">
-            <p className="text-blue-200 mb-6">Powered by Google DeepMind's cutting-edge research</p>
+            <p className="text-blue-200 mb-6">Powered by <strong>Genie3</strong> - Google DeepMind's cutting-edge research at <strong>Genie3.top</strong></p>
             <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
               {/* Placeholder for company logos */}
               <div className="bg-white/20 backdrop-blur-sm rounded-lg px-6 py-3 text-white font-semibold">DeepMind</div>

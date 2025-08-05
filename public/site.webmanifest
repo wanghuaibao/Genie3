@@ -1,0 +1,120 @@
+{
+  "name": "Genie3 - AI 3D World Generator",
+  "short_name": "Genie3",
+  "description": "Genie3.top - Transform images into interactive 3D worlds with Google DeepMind's revolutionary AI technology",
+  "start_url": "https://genie3.top/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["technology", "artificial-intelligence", "3d", "games", "productivity"],
+  "screenshots": [
+    {
+      "src": "/screenshots/genie3-home.png",
+      "type": "image/png",
+      "sizes": "1280x720",
+      "label": "Genie3 Homepage"
+    },
+    {
+      "src": "/screenshots/genie3-demo.png",
+      "type": "image/png",
+      "sizes": "1280x720",
+      "label": "Genie3 World Generation Demo"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Try Genie3",
+      "short_name": "Try",
+      "description": "Start generating 3D worlds with Genie3",
+      "url": "/try?utm_source=pwa",
+      "icons": [
+        {
+          "src": "/icons/try-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Genie3 Pricing",
+      "short_name": "Pricing",
+      "description": "View Genie3 pricing plans",
+      "url": "/#pricing?utm_source=pwa",
+      "icons": [
+        {
+          "src": "/icons/pricing-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "How Genie3 Works",
+      "short_name": "How it Works",
+      "description": "Learn how Genie3 transforms images to worlds",
+      "url": "/#how-it-works?utm_source=pwa",
+      "icons": [
+        {
+          "src": "/icons/how-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://genie3.top",
+      "id": "com.genie3.webapp"
+    }
+  ],
+  "prefer_related_applications": false,
+  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+  "share_target": {
+    "action": "/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url",
+      "files": [
+        {
+          "name": "image",
+          "accept": ["image/*"]
+        }
+      ]
+    }
+  }
+}

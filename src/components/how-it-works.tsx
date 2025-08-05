@@ -13,8 +13,8 @@ const steps = [
   {
     number: "02", 
     icon: <IconCpu className="h-8 w-8" />,
-    title: "AI World Generation",
-    description: "Genie 2's advanced diffusion model analyzes your image and generates a complete 3D environment with realistic physics and lighting.",
+    title: "Genie3 AI World Generation",
+    description: "Genie3's advanced diffusion model analyzes your image and generates a complete 3D environment with realistic physics and lighting.",
     example: "Spatiotemporal transformers create interactive spaces",
     color: "purple"
   },
@@ -73,10 +73,10 @@ export function HowItWorksSection() {
         {/* Header */}
         <div className="text-center mb-20">
           <h2 className="text-4xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6">
-            How It Works
+            How <span className="text-blue-600">Genie3</span> Works
           </h2>
           <p className="text-lg lg:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Transform static images into living, breathing 3D worlds. Here's how Google DeepMind's Genie 2 creates interactive environments from a single image.
+            Transform static images into living, breathing 3D worlds. Here's how <strong>Genie3</strong> creates interactive environments from a single image on <a href="https://genie3.top" className="text-blue-600 hover:underline">Genie3.top</a>.
           </p>
         </div>
 
@@ -140,7 +140,7 @@ export function HowItWorksSection() {
               Ready to Create Your World?
             </h3>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-              Experience Genie 2's revolutionary world generation technology and explore the future of interactive 3D environments.
+              Experience <strong>Genie3's</strong> revolutionary world generation technology at <strong>Genie3.top</strong> and explore the future of interactive 3D environments.
             </p>
             
             {/* Input demo */}
@@ -159,7 +159,7 @@ export function HowItWorksSection() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold py-3 px-8 rounded-full transition duration-300 transform hover:scale-105">
-                Try Genie 2
+                Try Genie3 Now
               </button>
               <button className="border-2 border-gray-300 dark:border-gray-600 hover:border-blue-500 dark:hover:border-blue-400 text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 font-semibold py-3 px-8 rounded-full transition duration-300">
                 View Examples
