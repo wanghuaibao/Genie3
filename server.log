@@ -1,0 +1,490 @@
+
+> ai-video-generator-landing@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.10
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 3.1s (1381 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ HEAD / 500 in 3250ms
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ✓ Compiled /_not-found in 331ms (1384 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 408ms
+ ✓ Compiled in 245ms (1355 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 51ms
+ ✓ Compiled in 343ms (1355 modules)
+ ✓ Compiled in 293ms (1355 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ HEAD / 500 in 120ms
+ ⨯     at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "3091034250"
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 36ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 23ms
+ ✓ Compiled in 931ms (558 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ HEAD / 200 in 98ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 50ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 29ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 47ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ HEAD / 200 in 31ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 44ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 21ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 30ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 84ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 42ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 22ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 33ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 31ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 34ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 21ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 55ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 29ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 30ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 27ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 38ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 25ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 30ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 17ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 35ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 18ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 55ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 11ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 50ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 25ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 30ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 26ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 40ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 25ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 26ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 26ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 29ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 20ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 50ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 23ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 40ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 20ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 35ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 39ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 25ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 33ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 36ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 30ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 41ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 24ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 31ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 14ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 35ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 14ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 33ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 24ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 41ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 9ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 84ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 22ms
+ ✓ Compiled in 804ms (512 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 96ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 15ms
+ ✓ Compiled in 845ms (607 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /api/health. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/health 404 in 26ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /__nextjs_original-stack-frames. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /__nextjs_original-stack-frames 404 in 22ms
+ ✓ Compiled in 367ms (607 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1114ms (1083 modules)
+ GET /api/health 404 in 1399ms
+ POST /__nextjs_original-stack-frames 404 in 6ms
+ ✓ Compiled in 490ms (792 modules)
+ GET /api/health 404 in 45ms
+ POST /__nextjs_original-stack-frames 404 in 11ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/.next/server/app/page.js'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/page' in /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/.next/server/app/page.js', but to 'Error: Can't resolve '../../../../.next/server/app/page' in '/Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/page (expected /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/.next/server/app/page.js)
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/require.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/require.js
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/load-components.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/utils.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+ ✓ Compiled in 188ms (792 modules)
+ GET /api/health 404 in 40ms
+ POST /__nextjs_original-stack-frames 404 in 9ms
+ GET /api/health 404 in 25ms
+ POST /__nextjs_original-stack-frames 404 in 23ms
+ GET /api/health 404 in 30ms
+ POST /__nextjs_original-stack-frames 404 in 10ms
+ GET /api/health 404 in 28ms
+ POST /__nextjs_original-stack-frames 404 in 21ms
+ GET /api/health 404 in 28ms
+ POST /__nextjs_original-stack-frames 404 in 19ms
+ GET /api/health 404 in 37ms
+ POST /__nextjs_original-stack-frames 404 in 23ms
+ GET /api/health 404 in 39ms
+ POST /__nextjs_original-stack-frames 404 in 12ms
+ GET /api/health 404 in 37ms
+ POST /__nextjs_original-stack-frames 404 in 26ms
+ GET /api/health 404 in 38ms
+ POST /__nextjs_original-stack-frames 404 in 81ms
+ GET /api/health 404 in 43ms
+ POST /__nextjs_original-stack-frames 404 in 46ms
+ GET /api/health 404 in 52ms
+ POST /__nextjs_original-stack-frames 404 in 15ms
+ GET /api/health 404 in 23ms
+ POST /__nextjs_original-stack-frames 404 in 19ms
+ GET /api/health 404 in 20ms
+ POST /__nextjs_original-stack-frames 404 in 15ms
+ GET /api/health 404 in 43ms
+ POST /__nextjs_original-stack-frames 404 in 22ms
+ GET /api/health 404 in 18ms
+ POST /__nextjs_original-stack-frames 404 in 12ms
+ GET /api/health 404 in 21ms
+ POST /__nextjs_original-stack-frames 404 in 12ms
+ GET /api/health 404 in 32ms
+ POST /__nextjs_original-stack-frames 404 in 18ms
+ GET /api/health 404 in 36ms
+ POST /__nextjs_original-stack-frames 404 in 12ms
+ GET /api/health 404 in 33ms
+ POST /__nextjs_original-stack-frames 404 in 27ms
+ GET /api/health 404 in 51ms
+ POST /__nextjs_original-stack-frames 404 in 21ms
+ GET /api/health 404 in 40ms
+ POST /__nextjs_original-stack-frames 404 in 25ms
+ GET /api/health 404 in 49ms
+ POST /__nextjs_original-stack-frames 404 in 7ms
+ GET /api/health 404 in 37ms
+ POST /__nextjs_original-stack-frames 404 in 10ms
+ GET /api/health 404 in 41ms
+ POST /__nextjs_original-stack-frames 404 in 12ms
+ GET /api/health 404 in 40ms
+ POST /__nextjs_original-stack-frames 404 in 14ms
+ GET /api/health 404 in 23ms
+ POST /__nextjs_original-stack-frames 404 in 18ms
+ GET /api/health 404 in 28ms
+ POST /__nextjs_original-stack-frames 404 in 10ms
+ GET /api/health 404 in 41ms
+ POST /__nextjs_original-stack-frames 404 in 10ms
+ GET /api/health 404 in 30ms
+ POST /__nextjs_original-stack-frames 404 in 15ms
+ GET /api/health 404 in 28ms
+ POST /__nextjs_original-stack-frames 404 in 11ms
+ GET /api/health 404 in 38ms
+ POST /__nextjs_original-stack-frames 404 in 12ms
+ GET /api/health 404 in 45ms
+ POST /__nextjs_original-stack-frames 404 in 10ms
+ GET /api/health 404 in 31ms
+ POST /__nextjs_original-stack-frames 404 in 22ms
+ GET /api/health 404 in 48ms
+ POST /__nextjs_original-stack-frames 404 in 19ms
+ GET /api/health 404 in 32ms
+ POST /__nextjs_original-stack-frames 404 in 13ms
+ GET /api/health 404 in 39ms
+ POST /__nextjs_original-stack-frames 404 in 16ms
+ GET /api/health 404 in 32ms
+ POST /__nextjs_original-stack-frames 404 in 10ms
+ GET /api/health 404 in 35ms
+ POST /__nextjs_original-stack-frames 404 in 9ms
+ GET /api/health 404 in 37ms
+ POST /__nextjs_original-stack-frames 404 in 17ms
+ GET /api/health 404 in 17ms
+ POST /__nextjs_original-stack-frames 404 in 16ms
+ GET /api/health 404 in 35ms
+ POST /__nextjs_original-stack-frames 404 in 15ms
+ GET /api/health 404 in 22ms
+ POST /__nextjs_original-stack-frames 404 in 10ms
+ GET /api/health 404 in 26ms
+ POST /__nextjs_original-stack-frames 404 in 18ms
+ GET /api/health 404 in 37ms
+ POST /__nextjs_original-stack-frames 404 in 20ms
+ GET /api/health 404 in 26ms
+ POST /__nextjs_original-stack-frames 404 in 12ms
+ GET /api/health 404 in 32ms
+ POST /__nextjs_original-stack-frames 404 in 17ms
+ GET /api/health 404 in 27ms
+ POST /__nextjs_original-stack-frames 404 in 22ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 25ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 5ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 19ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 7ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 28ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 8ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 20ms
+ POST /app/7defcb07-e3a6-4540-9467-f95d6dc2077a 404 in 4ms
+ ✓ Compiled in 1180ms (789 modules)
+ ✓ Compiled in 332ms (789 modules)
+ ✓ Compiled in 223ms (789 modules)
+ ✓ Compiled in 133ms (789 modules)
+ ✓ Compiled in 274ms (789 modules)
+ ✓ Compiled in 264ms (789 modules)
+ ✓ Compiled in 434ms (789 modules)
+ ✓ Compiled in 247ms (789 modules)
+ ✓ Compiled in 123ms (789 modules)
+ ✓ Compiled in 3.9s (447 modules)
+ ✓ Compiled in 477ms (447 modules)
+ ✓ Compiled in 478ms (447 modules)
+ ✓ Compiled in 516ms (447 modules)
+ ✓ Compiled in 709ms (447 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 683ms (739 modules)
+ ✓ Compiled /_error in 69ms (741 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/.next/server/app/page.js'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/page' in /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/.next/server/app/page.js', but to 'Error: Can't resolve '../../../../.next/server/app/page' in '/Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/page (expected /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/.next/server/app/page.js)
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/require.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/require.js
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/load-components.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/utils.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /Users/whb/web/claudecodeApi/src/generated-pages/landing-1754226881605/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+[?25h
