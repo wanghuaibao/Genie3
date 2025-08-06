@@ -39,7 +39,7 @@ function HeroSplineBackground() {
   );
 }
 
-function ScreenshotSection({ screenshotRef }: { screenshotRef: React.RefObject<HTMLDivElement | null> }) {
+function ScreenshotSection({ screenshotRef }: { screenshotRef: React.RefObject<HTMLDivElement> }) {
   return (
     <section className="relative z-10 container mx-auto px-4 md:px-6 lg:px-8 mt-11 md:mt-12">
       <div ref={screenshotRef} className="bg-gray-900 rounded-xl overflow-hidden shadow-2xl border border-gray-700/50 w-full md:w-[80%] lg:w-[70%] mx-auto">
@@ -62,7 +62,7 @@ function HeroContent() {
         <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Genie3</span>: Transform <br className="sm:hidden" />Images into Playable <br className="sm:hidden" />3D Worlds
       </h1>
       <p className="text-base sm:text-lg md:text-xl mb-6 sm:mb-8 opacity-80 max-w-xl">
-        <strong>Genie3</strong> (Genie3.top) - Google DeepMind's revolutionary AI model creates endless interactive 3D environments from a single image. Experience the future of world generation with Genie3's advanced technology.
+        <strong>Genie3</strong> (Genie3.top) - Google DeepMind&apos;s revolutionary AI model creates endless interactive 3D environments from a single image. Experience the future of world generation with Genie3&apos;s advanced technology.
       </p>
       <div className="flex pointer-events-auto flex-col sm:flex-row items-start space-y-3 sm:space-y-0 sm:space-x-3">
         <button className="bg-[#8200DB29] hover:bg-black/50 text-white font-semibold py-2 sm:py-3 px-6 sm:px-8 rounded-full transition duration-300 w-full sm:w-auto border border-[#322D36]" style={{ backdropFilter: 'blur(8px)' }}>
@@ -249,7 +249,7 @@ export const HeroSection = () => {
       <div className="bg-black relative z-10" style={{ marginTop: '-10vh' }}>
         <ScreenshotSection screenshotRef={screenshotRef} />
         <div className="container mx-auto px-4 py-16 text-white">
-            <h2 className="text-4xl font-bold text-center mb-8">Experience Genie3's Revolutionary Technology</h2>
+            <h2 className="text-4xl font-bold text-center mb-8">Experience Genie3&apos;s Revolutionary Technology</h2>
              <p className="text-center max-w-xl mx-auto opacity-80">Witness how <strong>Genie3</strong> transforms a single image into rich, interactive 3D environments with realistic physics and lighting. Available exclusively at Genie3.top.</p>
         </div>
       </div>

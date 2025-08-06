@@ -56,7 +56,7 @@ export function Footer() {
               <span className="font-bold text-2xl">Genie3</span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              <strong>Genie3</strong> - Google DeepMind's revolutionary foundation world model at <strong>Genie3.top</strong>. 
+              <strong>Genie3</strong> - Google DeepMind&apos;s revolutionary foundation world model at <strong>Genie3.top</strong>. 
               Transform single images into interactive 3D environments with realistic physics using Genie3.
             </p>
             

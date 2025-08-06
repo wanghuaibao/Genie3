@@ -29,7 +29,7 @@ export function CTASection() {
 
           {/* Description */}
           <p className="text-xl lg:text-2xl text-blue-100 mb-12 max-w-4xl mx-auto leading-relaxed">
-            Experience <strong>Genie3</strong> - Google DeepMind's revolutionary technology at <strong>Genie3.top</strong>. 
+            Experience <strong>Genie3</strong> - Google DeepMind&apos;s revolutionary technology at <strong>Genie3.top</strong>. 
             Transform single images into fully interactive 3D environments with realistic physics using Genie3.
           </p>
 
@@ -67,7 +67,7 @@ export function CTASection() {
 
           {/* Trust indicators */}
           <div className="mt-12 text-center">
-            <p className="text-blue-200 mb-6">Powered by <strong>Genie3</strong> - Google DeepMind's cutting-edge research at <strong>Genie3.top</strong></p>
+            <p className="text-blue-200 mb-6">Powered by <strong>Genie3</strong> - Google DeepMind&apos;s cutting-edge research at <strong>Genie3.top</strong></p>
             <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
               {/* Placeholder for company logos */}
               <div className="bg-white/20 backdrop-blur-sm rounded-lg px-6 py-3 text-white font-semibold">DeepMind</div>

@@ -104,7 +104,7 @@ export function FAQSection() {
             Still have questions?
           </h3>
           <p className="text-gray-600 dark:text-gray-300 mb-6">
-            Learn more about Google DeepMind's revolutionary world generation technology.
+            Learn more about Google DeepMind&apos;s revolutionary world generation technology.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold py-3 px-8 rounded-full transition duration-300 transform hover:scale-105">

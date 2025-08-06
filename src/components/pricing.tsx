@@ -137,7 +137,7 @@ export function PricingSection() {
 
                 {/* Features */}
                 <div className="mb-8">
-                  <h4 className="font-semibold text-gray-900 dark:text-white mb-4">What's included:</h4>
+                  <h4 className="font-semibold text-gray-900 dark:text-white mb-4">What&apos;s included:</h4>
                   <ul className="space-y-3">
                     {plan.features.map((feature, idx) => (
                       <li key={idx} className="flex items-start space-x-3">
@@ -192,7 +192,7 @@ export function PricingSection() {
             </div>
             <div className="text-left">
               <h4 className="font-semibold text-gray-900 dark:text-white mb-2">Is this publicly available?</h4>
-              <p className="text-gray-600 dark:text-gray-400">Genie3 is now available at Genie3.top, bringing Google DeepMind's technology to creators worldwide.</p>
+              <p className="text-gray-600 dark:text-gray-400">Genie3 is now available at Genie3.top, bringing Google DeepMind&apos;s technology to creators worldwide.</p>
             </div>
           </div>
         </div>
@@ -203,7 +203,7 @@ export function PricingSection() {
             Powered by Google DeepMind
           </h3>
           <p className="text-gray-600 dark:text-gray-300">
-            Experience <strong>Genie3</strong> - the cutting-edge foundation world model at <strong>Genie3.top</strong> that's revolutionizing interactive 3D content creation.
+            Experience <strong>Genie3</strong> - the cutting-edge foundation world model at <strong>Genie3.top</strong> that&apos;s revolutionizing interactive 3D content creation.
           </p>
         </div>
       </div>

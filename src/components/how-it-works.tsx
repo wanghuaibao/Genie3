@@ -76,7 +76,7 @@ export function HowItWorksSection() {
             How <span className="text-blue-600">Genie3</span> Works
           </h2>
           <p className="text-lg lg:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Transform static images into living, breathing 3D worlds. Here's how <strong>Genie3</strong> creates interactive environments from a single image on <a href="https://genie3.top" className="text-blue-600 hover:underline">Genie3.top</a>.
+            Transform static images into living, breathing 3D worlds. Here&apos;s how <strong>Genie3</strong> creates interactive environments from a single image on <a href="https://genie3.top" className="text-blue-600 hover:underline">Genie3.top</a>.
           </p>
         </div>
 
@@ -140,7 +140,7 @@ export function HowItWorksSection() {
               Ready to Create Your World?
             </h3>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-              Experience <strong>Genie3's</strong> revolutionary world generation technology at <strong>Genie3.top</strong> and explore the future of interactive 3D environments.
+              Experience <strong>Genie3&apos;s</strong> revolutionary world generation technology at <strong>Genie3.top</strong> and explore the future of interactive 3D environments.
             </p>
             
             {/* Input demo */}
