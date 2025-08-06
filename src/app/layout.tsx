@@ -1,9 +1,16 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
 import Script from 'next/script'
 
 const inter = Inter({ subsets: ['latin'] })
+
+// Viewport配置 - 单独导出
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+}
 
 // SEO优化配置 - 核心关键词：Genie3
 export const metadata: Metadata = {
@@ -89,13 +96,6 @@ export const metadata: Metadata = {
       url: 'https://genie3.top/twitter-genie3.jpg',
       alt: 'Genie3 - Interactive 3D World Generation',
     },
-  },
-  
-  // 视口和移动优化
-  viewport: {
-    width: 'device-width',
-    initialScale: 1,
-    maximumScale: 5,
   },
   
   // 机器人爬虫设置

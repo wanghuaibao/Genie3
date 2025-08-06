@@ -21,13 +21,6 @@ const nextConfig = {
     minimumCacheTTL: 60 * 60 * 24 * 365, // 1 year
   },
   
-  // 国际化支持
-  i18n: {
-    locales: ['en', 'zh'],
-    defaultLocale: 'en',
-    localeDetection: true,
-  },
-  
   // 重定向和重写规则
   async redirects() {
     return [
@@ -45,19 +38,6 @@ const nextConfig = {
         source: '/index.html',
         destination: '/',
         permanent: true,
-      },
-    ]
-  },
-  
-  async rewrites() {
-    return [
-      {
-        source: '/sitemap.xml',
-        destination: '/api/sitemap',
-      },
-      {
-        source: '/rss.xml',
-        destination: '/api/rss',
       },
     ]
   },
@@ -119,17 +99,6 @@ const nextConfig = {
   
   // Webpack优化
   webpack: (config, { isServer }) => {
-    // 优化包大小
-    if (!isServer) {
-      config.resolve.alias = {
-        ...config.resolve.alias,
-        'react/jsx-runtime.js': 'preact/compat/jsx-runtime',
-        react: 'preact/compat',
-        'react-dom/test-utils': 'preact/test-utils',
-        'react-dom': 'preact/compat',
-      }
-    }
-    
     // 支持SVG作为组件
     config.module.rules.push({
       test: /\.svg$/,
@@ -137,12 +106,6 @@ const nextConfig = {
     })
     
     return config
-  },
-  
-  // 实验性功能
-  experimental: {
-    optimizeCss: true,
-    scrollRestoration: true,
   },
 }
 
