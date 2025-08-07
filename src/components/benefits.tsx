@@ -49,7 +49,7 @@ export function BenefitsSection() {
             Why Choose <span className="text-blue-600">Genie3</span>?
           </h2>
           <p className="text-lg lg:text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            Discover the groundbreaking capabilities of <strong>Genie3</strong> - Google DeepMind&apos;s foundation world model. Available at <a href="https://genie3.top" className="text-blue-600 hover:underline">Genie3.top</a>, revolutionizing interactive 3D world creation.
+            Discover the groundbreaking capabilities of <strong>Genie3</strong> - Advanced AI foundation world model. Available at <a href="https://genie3.top" className="text-blue-600 hover:underline">Genie3.top</a>, revolutionizing interactive 3D world creation.
           </p>
         </div>
 

@@ -56,7 +56,7 @@ export function Footer() {
               <span className="font-bold text-2xl">Genie3</span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              <strong>Genie3</strong> - Google DeepMind&apos;s revolutionary foundation world model at <strong>Genie3.top</strong>. 
+              <strong>Genie3</strong> - Revolutionary foundation world model at <strong>Genie3.top</strong>. 
               Transform single images into interactive 3D environments with realistic physics using Genie3.
             </p>
             
@@ -153,7 +153,7 @@ export function Footer() {
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2024 Genie3.top. <strong>Genie3</strong> - Foundation World Model for Interactive 3D Environments powered by Google DeepMind.
+              © 2024 Genie3.top. <strong>Genie3</strong> - Foundation World Model for Interactive 3D Environments powered by cutting-edge AI research.
             </div>
             
             {/* Social links */}

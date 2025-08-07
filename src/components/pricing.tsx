@@ -192,7 +192,7 @@ export function PricingSection() {
             </div>
             <div className="text-left">
               <h4 className="font-semibold text-gray-900 dark:text-white mb-2">Is this publicly available?</h4>
-              <p className="text-gray-600 dark:text-gray-400">Genie3 is now available at Genie3.top, bringing Google DeepMind&apos;s technology to creators worldwide.</p>
+              <p className="text-gray-600 dark:text-gray-400">Genie3 is now available at Genie3.top, bringing advanced AI technology to creators worldwide.</p>
             </div>
           </div>
         </div>
@@ -200,7 +200,7 @@ export function PricingSection() {
         {/* Money-back guarantee */}
         <div className="mt-16 text-center bg-gradient-to-r from-green-50 to-blue-50 dark:from-green-900 dark:to-blue-900 rounded-2xl p-8">
           <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
-            Powered by Google DeepMind
+            Powered by Advanced AI Technology
           </h3>
           <p className="text-gray-600 dark:text-gray-300">
             Experience <strong>Genie3</strong> - the cutting-edge foundation world model at <strong>Genie3.top</strong> that&apos;s revolutionizing interactive 3D content creation.

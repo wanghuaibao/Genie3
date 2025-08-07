@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: 'Genie3 - AI 3D World Generator | Transform Images to Interactive Worlds | Genie3.top',
   
   // 描述优化 - 包含关键词，吸引点击
-  description: 'Genie3 (Genie3.top) - Google DeepMind\'s revolutionary AI that transforms single images into fully interactive 3D worlds. Experience Genie3\'s advanced world generation with realistic physics, dynamic lighting, and 60-second persistent environments. Try Genie3 now!',
+  description: 'Genie3 (Genie3.top) - Revolutionary AI technology that transforms single images into fully interactive 3D worlds. Experience Genie3\'s advanced world generation with realistic physics, dynamic lighting, and 60-second persistent environments. Try Genie3 now!',
   
   // 关键词优化 - 核心词和相关长尾词
   keywords: [
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
     'Genie3 AI',
     'Genie3 world generator',
     'Genie3 3D worlds',
-    'Genie3 DeepMind',
+    'Genie3 advanced AI',
     'Genie3 interactive environments',
-    'Google Genie3',
+    'Genie3 AI technology',
     'Genie3 foundation model',
     'AI world generation',
     '3D environment creator',
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   // Open Graph优化 - 社交媒体分享
   openGraph: {
     title: 'Genie3 - Revolutionary AI 3D World Generator | Genie3.top',
-    description: 'Genie3 transforms images into interactive 3D worlds using Google DeepMind\'s advanced AI. Create persistent environments with realistic physics on Genie3.top',
+    description: 'Genie3 transforms images into interactive 3D worlds using advanced AI technology. Create persistent environments with realistic physics on Genie3.top',
     url: 'https://genie3.top',
     siteName: 'Genie3',
     locale: 'en_US',
@@ -89,7 +89,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Genie3 - AI 3D World Generator | Genie3.top',
-    description: 'Transform any image into an interactive 3D world with Genie3. Powered by Google DeepMind\'s revolutionary AI technology.',
+    description: 'Transform any image into an interactive 3D world with Genie3. Powered by revolutionary AI technology.',
     site: '@Genie3AI',
     creator: '@Genie3AI',
     images: {
@@ -162,8 +162,8 @@ const structuredData = {
   },
   author: {
     '@type': 'Organization',
-    name: 'Google DeepMind',
-    url: 'https://deepmind.google',
+    name: 'Advanced AI Research',
+    url: 'https://genie3.top',
   },
   datePublished: '2024-12-01',
   dateModified: new Date().toISOString(),
@@ -185,7 +185,7 @@ const faqStructuredData = {
       name: 'What is Genie3?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Genie3 is Google DeepMind\'s revolutionary AI platform available at Genie3.top that transforms single images into fully interactive 3D worlds with realistic physics and dynamic lighting.',
+        text: 'Genie3 is a revolutionary AI platform available at Genie3.top that transforms single images into fully interactive 3D worlds with realistic physics and dynamic lighting.',
       },
     },
     {
@@ -201,7 +201,7 @@ const faqStructuredData = {
       name: 'Where can I access Genie3?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'You can access Genie3 at Genie3.top, where you can experience the cutting-edge AI world generation technology developed by Google DeepMind.',
+        text: 'You can access Genie3 at Genie3.top, where you can experience the cutting-edge AI world generation technology.',
       },
     },
   ],

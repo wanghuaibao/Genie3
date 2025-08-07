@@ -5,7 +5,7 @@ import { IconPlus, IconMinus } from "@tabler/icons-react";
 const faqs = [
   {
     question: "What exactly is Genie3?",
-    answer: "Genie3 (available at Genie3.top) is Google DeepMind's revolutionary foundation world model that generates interactive 3D environments from a single image. Genie3 uses advanced diffusion models and spatiotemporal transformers to create playable worlds with realistic physics, lighting, and object interactions."
+    answer: "Genie3 (available at Genie3.top) is a revolutionary foundation world model that generates interactive 3D environments from a single image. Genie3 uses advanced diffusion models and spatiotemporal transformers to create playable worlds with realistic physics, lighting, and object interactions."
   },
   {
     question: "How long can Genie3 generated worlds last?",
@@ -29,7 +29,7 @@ const faqs = [
   },
   {
     question: "Is Genie3 available for public use?",
-    answer: "Genie3 is accessible at Genie3.top, representing the evolution of Google DeepMind's world generation technology. While based on research foundations, Genie3 offers the future of interactive content creation through our platform."
+    answer: "Genie3 is accessible at Genie3.top, representing the evolution of advanced AI world generation technology. While based on cutting-edge research foundations, Genie3 offers the future of interactive content creation through our platform."
   },
   {
     question: "How can Genie3 be used for AI development?",
@@ -104,7 +104,7 @@ export function FAQSection() {
             Still have questions?
           </h3>
           <p className="text-gray-600 dark:text-gray-300 mb-6">
-            Learn more about Google DeepMind&apos;s revolutionary world generation technology.
+            Learn more about revolutionary world generation technology.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold py-3 px-8 rounded-full transition duration-300 transform hover:scale-105">

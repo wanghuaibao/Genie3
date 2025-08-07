@@ -62,7 +62,7 @@ function HeroContent() {
         <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Genie3</span>: Transform <br className="sm:hidden" />Images into Playable <br className="sm:hidden" />3D Worlds
       </h1>
       <p className="text-base sm:text-lg md:text-xl mb-6 sm:mb-8 opacity-80 max-w-xl">
-        <strong>Genie3</strong> (Genie3.top) - Google DeepMind&apos;s revolutionary AI model creates endless interactive 3D environments from a single image. Experience the future of world generation with Genie3&apos;s advanced technology.
+        <strong>Genie3</strong> (Genie3.top) - Advanced AI model creates endless interactive 3D environments from a single image. Experience the future of world generation with cutting-edge AI technology.
       </p>
       <div className="flex pointer-events-auto flex-col sm:flex-row items-start space-y-3 sm:space-y-0 sm:space-x-3">
         <button className="bg-[#8200DB29] hover:bg-black/50 text-white font-semibold py-2 sm:py-3 px-6 sm:px-8 rounded-full transition duration-300 w-full sm:w-auto border border-[#322D36]" style={{ backdropFilter: 'blur(8px)' }}>

@@ -1,7 +1,7 @@
 {
   "name": "Genie3 - AI 3D World Generator",
   "short_name": "Genie3",
-  "description": "Genie3.top - Transform images into interactive 3D worlds with Google DeepMind's revolutionary AI technology",
+  "description": "Genie3.top - Transform images into interactive 3D worlds with revolutionary AI technology",
   "start_url": "https://genie3.top/",
   "display": "standalone",
   "background_color": "#000000",
