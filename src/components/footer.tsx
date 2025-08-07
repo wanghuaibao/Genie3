@@ -6,37 +6,37 @@ const footerLinks = {
     { name: "Features", href: "#features" },
     { name: "How it Works", href: "#how-it-works" },
     { name: "Pricing", href: "#pricing" },
-    { name: "API Documentation", href: "#" },
-    { name: "Research Papers", href: "#" }
+    { name: "Technology", href: "#benefits" },
+    { name: "Examples", href: "#testimonials" }
   ],
   company: [
-    { name: "About Us", href: "#" },
-    { name: "Careers", href: "#" },
-    { name: "Blog", href: "#" },
-    { name: "Press Kit", href: "#" },
-    { name: "Contact", href: "#" }
+    { name: "About", href: "#about" },
+    { name: "Mission", href: "#about" },
+    { name: "Team", href: "#about" },
+    { name: "Updates", href: "#about" },
+    { name: "Contact", href: "#contact" }
   ],
   resources: [
-    { name: "Help Center", href: "#" },
-    { name: "Technical Docs", href: "#" },
-    { name: "Community", href: "#" },
-    { name: "Webinars", href: "#" },
-    { name: "Case Studies", href: "#" }
+    { name: "Help Center", href: "#faq" },
+    { name: "FAQ", href: "#faq" },
+    { name: "Getting Started", href: "#how-it-works" },
+    { name: "Use Cases", href: "#testimonials" },
+    { name: "Support", href: "#contact" }
   ],
   legal: [
-    { name: "Privacy Policy", href: "#" },
-    { name: "Terms of Service", href: "#" },
-    { name: "Cookie Policy", href: "#" },
-    { name: "Data Processing", href: "#" },
-    { name: "Security", href: "#" }
+    { name: "About Platform", href: "#about" },
+    { name: "Features", href: "#features" },
+    { name: "How It Works", href: "#how-it-works" },
+    { name: "FAQ", href: "#faq" },
+    { name: "Contact", href: "#contact" }
   ]
 };
 
 const socialLinks = [
-  { name: "Twitter", icon: IconBrandTwitter, href: "#" },
-  { name: "LinkedIn", icon: IconBrandLinkedin, href: "#" },
-  { name: "YouTube", icon: IconBrandYoutube, href: "#" },
-  { name: "GitHub", icon: IconBrandGithub, href: "#" }
+  { name: "Twitter", icon: IconBrandTwitter, href: "#contact" },
+  { name: "LinkedIn", icon: IconBrandLinkedin, href: "#contact" },
+  { name: "YouTube", icon: IconBrandYoutube, href: "#contact" },
+  { name: "GitHub", icon: IconBrandGithub, href: "#contact" }
 ];
 
 export function Footer() {
@@ -127,23 +127,12 @@ export function Footer() {
           </div>
         </div>
 
-        {/* Newsletter signup */}
+        {/* Platform Status - No email collection */}
         <div className="mt-16 pt-8 border-t border-gray-800">
-          <div className="flex flex-col lg:flex-row items-center justify-between">
-            <div className="mb-6 lg:mb-0">
-              <h3 className="font-semibold text-xl mb-2">Stay updated</h3>
-              <p className="text-gray-300">Get the latest updates on <strong>Genie3</strong> and world generation technology at <strong>Genie3.top</strong>.</p>
-            </div>
-            <div className="flex flex-col sm:flex-row gap-4 w-full lg:w-auto">
-              <input 
-                type="email" 
-                placeholder="Enter your email"
-                className="px-4 py-3 bg-gray-800 border border-gray-700 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 w-full sm:w-80"
-              />
-              <button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold py-3 px-6 rounded-lg transition duration-300 whitespace-nowrap">
-                Subscribe
-              </button>
-            </div>
+          <div className="text-center">
+            <h3 className="font-semibold text-xl mb-2">Platform Coming Soon</h3>
+            <p className="text-gray-300">Experience the future of AI-powered 3D world generation at <strong>Genie3.top</strong>.</p>
+            <p className="text-gray-400 mt-4 text-sm">Revolutionary AI technology for creating interactive 3D environments from single images.</p>
           </div>
         </div>
       </div>
