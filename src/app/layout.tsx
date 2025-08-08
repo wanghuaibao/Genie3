@@ -283,10 +283,10 @@ export default function RootLayout({
           }}
         />
         
-        {/* Google Analytics (替换为你的ID) */}
+        {/* Google Analytics */}
         <Script
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+          src="https://www.googletagmanager.com/gtag/js?id=G-VXY1L8S0Q5"
         />
         <Script
           id="google-analytics"
@@ -296,7 +296,7 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-XXXXXXXXXX');
+              gtag('config', 'G-VXY1L8S0Q5');
             `,
           }}
         />
